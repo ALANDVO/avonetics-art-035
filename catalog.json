@@ -1,0 +1,251 @@
+{
+  "schema": 1,
+  "repository": "alandvo/avonetics-art-035",
+  "images": [
+    {
+      "source": "covers/ep/a_20261104_090408_6b8cd3.jpg",
+      "bytes": 45032,
+      "localMtime": 1793783058.4725893,
+      "file": "images/ad1635645438c53988fe11587670457203ed67fb800c771c75d5110f103fb602.jpg",
+      "sha256": "ad1635645438c53988fe11587670457203ed67fb800c771c75d5110f103fb602"
+    },
+    {
+      "source": "covers/song/song_20261103_140607_8015.jpg",
+      "bytes": 874704,
+      "localMtime": 1793714768.5343082,
+      "file": "images/5468a14d15d93d6ad8ceb27e0a2bfe8d5608bf480ce0bd571e9911b42b834d2c.jpg",
+      "sha256": "5468a14d15d93d6ad8ceb27e0a2bfe8d5608bf480ce0bd571e9911b42b834d2c"
+    },
+    {
+      "source": "covers/song/song_20261103_143009_0bef.jpg",
+      "bytes": 887683,
+      "localMtime": 1793716210.3258858,
+      "file": "images/a2a92f4f58967690ffb48c232905ca1464d12c8604a8c32fd96c8f5e39266cca.jpg",
+      "sha256": "a2a92f4f58967690ffb48c232905ca1464d12c8604a8c32fd96c8f5e39266cca"
+    },
+    {
+      "source": "covers/song/song_20261103_144010_1330.jpg",
+      "bytes": 784076,
+      "localMtime": 1793716811.4436984,
+      "file": "images/f4bde713c63f60441a093cf0c5f193a34e999141a9fc77a3b1e344a93bf07b04.jpg",
+      "sha256": "f4bde713c63f60441a093cf0c5f193a34e999141a9fc77a3b1e344a93bf07b04"
+    },
+    {
+      "source": "covers/song/song_20261103_151009_f57f.jpg",
+      "bytes": 901063,
+      "localMtime": 1793718610.588329,
+      "file": "images/99ab75c0b7b5536eab314461be9cefc1c8b9cd16edc71cdcac21905884a2f832.jpg",
+      "sha256": "99ab75c0b7b5536eab314461be9cefc1c8b9cd16edc71cdcac21905884a2f832"
+    },
+    {
+      "source": "covers/song/song_20261103_152012_1b94.jpg",
+      "bytes": 429384,
+      "localMtime": 1793719213.8277879,
+      "file": "images/0ee1024660a2d8900b1346df4caf94c387531db9bc7e448fd501e73365d2e509.jpg",
+      "sha256": "0ee1024660a2d8900b1346df4caf94c387531db9bc7e448fd501e73365d2e509"
+    },
+    {
+      "source": "covers/song/song_20261103_153011_bf25.jpg",
+      "bytes": 441890,
+      "localMtime": 1793719812.9602065,
+      "file": "images/ff63d1a25ddad349c9608d0510c9a7a22f30fbeb79b6b918ea0f1f0c9e5f56f3.jpg",
+      "sha256": "ff63d1a25ddad349c9608d0510c9a7a22f30fbeb79b6b918ea0f1f0c9e5f56f3"
+    },
+    {
+      "source": "covers/song/song_20261103_154008_0be6.jpg",
+      "bytes": 874953,
+      "localMtime": 1793720409.7881322,
+      "file": "images/a3537bc400e4ec43bdf54d5402c6aba061779ec63565dc0042c97529bdc35445.jpg",
+      "sha256": "a3537bc400e4ec43bdf54d5402c6aba061779ec63565dc0042c97529bdc35445"
+    },
+    {
+      "source": "covers/song/song_20261103_155006_3e39.jpg",
+      "bytes": 934766,
+      "localMtime": 1793721008.1018522,
+      "file": "images/59f9e04a8632a1319b13f4bc55eb4f7e1994512cb48eb54a77f2729141edae0d.jpg",
+      "sha256": "59f9e04a8632a1319b13f4bc55eb4f7e1994512cb48eb54a77f2729141edae0d"
+    },
+    {
+      "source": "covers/song/song_20261103_161007_abe1.jpg",
+      "bytes": 916849,
+      "localMtime": 1793722209.2727716,
+      "file": "images/76d45192f02881f70e591c8206cfaf103cc22f43cc9d6556f163ca8e8421dc2b.jpg",
+      "sha256": "76d45192f02881f70e591c8206cfaf103cc22f43cc9d6556f163ca8e8421dc2b"
+    },
+    {
+      "source": "covers/song/song_20261103_162008_3103.jpg",
+      "bytes": 828446,
+      "localMtime": 1793722811.7349284,
+      "file": "images/2994b912b448c3f8681e04ce7e95eb004e236c046b0f54a02ddd8e9dc4eb6684.jpg",
+      "sha256": "2994b912b448c3f8681e04ce7e95eb004e236c046b0f54a02ddd8e9dc4eb6684"
+    },
+    {
+      "source": "covers/song/song_20261103_164009_ba53.jpg",
+      "bytes": 801733,
+      "localMtime": 1793724011.1299906,
+      "file": "images/b90a7b78ac998d06dd927bf37b0a1a204c642532c9d3577ebffc31328a794192.jpg",
+      "sha256": "b90a7b78ac998d06dd927bf37b0a1a204c642532c9d3577ebffc31328a794192"
+    },
+    {
+      "source": "covers/song/song_20261103_170306_0683.jpg",
+      "bytes": 709144,
+      "localMtime": 1793725387.2822793,
+      "file": "images/ac3387dc246697dda923749fff9df9984b375efcf6d5cd849772d6949c4bfdb1.jpg",
+      "sha256": "ac3387dc246697dda923749fff9df9984b375efcf6d5cd849772d6949c4bfdb1"
+    },
+    {
+      "source": "covers/song/song_20261103_171007_9879.jpg",
+      "bytes": 773971,
+      "localMtime": 1793725809.1814644,
+      "file": "images/ebb56b66210ec91fedd7f974c700ef89d002f07da01d0b39a3950518ab0ed47c.jpg",
+      "sha256": "ebb56b66210ec91fedd7f974c700ef89d002f07da01d0b39a3950518ab0ed47c"
+    },
+    {
+      "source": "covers/song/song_20261103_172008_a226.jpg",
+      "bytes": 776309,
+      "localMtime": 1793726410.1065755,
+      "file": "images/78f113297c52fb03c671e44c3b41da91dcd4438a10d48cd9b279e0204a6c4f74.jpg",
+      "sha256": "78f113297c52fb03c671e44c3b41da91dcd4438a10d48cd9b279e0204a6c4f74"
+    },
+    {
+      "source": "covers/song/song_20261103_173011_4196.jpg",
+      "bytes": 839791,
+      "localMtime": 1793727013.054021,
+      "file": "images/bdd654e7349a336538c58b1e580e4f455bd4209c2212314515b2d9131b3e5336.jpg",
+      "sha256": "bdd654e7349a336538c58b1e580e4f455bd4209c2212314515b2d9131b3e5336"
+    },
+    {
+      "source": "covers/song/song_20261103_174510_f80b.jpg",
+      "bytes": 831628,
+      "localMtime": 1793727911.6525538,
+      "file": "images/67eda643e18d854812fab477732c5868c7f05399c1a91666a724786e6478f770.jpg",
+      "sha256": "67eda643e18d854812fab477732c5868c7f05399c1a91666a724786e6478f770"
+    },
+    {
+      "source": "covers/song/song_20261103_175008_4f38.jpg",
+      "bytes": 641794,
+      "localMtime": 1793728209.6676335,
+      "file": "images/d4e2372d180e4d314650df09178539c7d6cdd7ca0fa2a968d326fd93053e5d4b.jpg",
+      "sha256": "d4e2372d180e4d314650df09178539c7d6cdd7ca0fa2a968d326fd93053e5d4b"
+    },
+    {
+      "source": "covers/song/song_20261103_180028_b788.jpg",
+      "bytes": 954343,
+      "localMtime": 1793728829.70663,
+      "file": "images/6afd30fa9af745139ce11fdab08778c16f7c29f772d7211af9994e09cd3cbcad.jpg",
+      "sha256": "6afd30fa9af745139ce11fdab08778c16f7c29f772d7211af9994e09cd3cbcad"
+    },
+    {
+      "source": "covers/song/song_20261103_184008_81f1.jpg",
+      "bytes": 871395,
+      "localMtime": 1793731209.7037513,
+      "file": "images/11f0e79eb7c76eae76ebe03df8baedefce2dc74d7afc6f537b9ef6707883df7a.jpg",
+      "sha256": "11f0e79eb7c76eae76ebe03df8baedefce2dc74d7afc6f537b9ef6707883df7a"
+    },
+    {
+      "source": "covers/song/song_20261103_185007_fbcb.jpg",
+      "bytes": 839771,
+      "localMtime": 1793731809.2746992,
+      "file": "images/a98e52f439e02fab7bfb398b3e00a81266656fe5ff853f272f77867898ed7683.jpg",
+      "sha256": "a98e52f439e02fab7bfb398b3e00a81266656fe5ff853f272f77867898ed7683"
+    },
+    {
+      "source": "covers/song/song_20261103_191007_3884.jpg",
+      "bytes": 723459,
+      "localMtime": 1793733008.4955812,
+      "file": "images/5340b07f9afc876dcf86ecabc47490ba584e0b8086ab82019511e3db9dc171fa.jpg",
+      "sha256": "5340b07f9afc876dcf86ecabc47490ba584e0b8086ab82019511e3db9dc171fa"
+    },
+    {
+      "source": "covers/song/song_20261103_192011_580c.jpg",
+      "bytes": 831138,
+      "localMtime": 1793733612.5813754,
+      "file": "images/e48b98a10119e8d4e35213adb7dd825ae725bd4946dcb083b020a1f7725ad77e.jpg",
+      "sha256": "e48b98a10119e8d4e35213adb7dd825ae725bd4946dcb083b020a1f7725ad77e"
+    },
+    {
+      "source": "covers/song/song_20261103_193012_a76b.jpg",
+      "bytes": 949376,
+      "localMtime": 1793734214.9821434,
+      "file": "images/8ef2edd41fda4e5cf7a477e5e50deeca8fe21ebfa996d80166a4d22045c595b4.jpg",
+      "sha256": "8ef2edd41fda4e5cf7a477e5e50deeca8fe21ebfa996d80166a4d22045c595b4"
+    },
+    {
+      "source": "covers/song/song_20261103_201508_ecbe.jpg",
+      "bytes": 804220,
+      "localMtime": 1793736909.4109747,
+      "file": "images/614b2f256403d98c81e6e308cebea71a1b293a3e3e7f2afdde5b00551ee8cd1f.jpg",
+      "sha256": "614b2f256403d98c81e6e308cebea71a1b293a3e3e7f2afdde5b00551ee8cd1f"
+    },
+    {
+      "source": "covers/song/song_20261103_203013_c401.jpg",
+      "bytes": 788010,
+      "localMtime": 1793737814.9756975,
+      "file": "images/330ffa3c03107d767a6583a577a9a17eecdea7496adf522edef14987a9ec64e5.jpg",
+      "sha256": "330ffa3c03107d767a6583a577a9a17eecdea7496adf522edef14987a9ec64e5"
+    },
+    {
+      "source": "covers/song/song_20261103_210306_91ef.jpg",
+      "bytes": 889565,
+      "localMtime": 1793739787.4123876,
+      "file": "images/9b1ba903401bd75b70f86a456b4ca3cef962450699ef43681c4fbf244cfbc357.jpg",
+      "sha256": "9b1ba903401bd75b70f86a456b4ca3cef962450699ef43681c4fbf244cfbc357"
+    },
+    {
+      "source": "covers/song/song_20261103_211008_abae.jpg",
+      "bytes": 945558,
+      "localMtime": 1793740209.7610064,
+      "file": "images/55bbe9ed44cce762ba7824d92ff03cbf8ea76a89f8ad18a8cf6d7e7fff3cc502.jpg",
+      "sha256": "55bbe9ed44cce762ba7824d92ff03cbf8ea76a89f8ad18a8cf6d7e7fff3cc502"
+    },
+    {
+      "source": "covers/song/song_20261103_212009_2a1d.jpg",
+      "bytes": 773460,
+      "localMtime": 1793740811.1176393,
+      "file": "images/84f0daa863de372f5981c6726d1a9743026e0500b2f69ab183bb05a98af97ce2.jpg",
+      "sha256": "84f0daa863de372f5981c6726d1a9743026e0500b2f69ab183bb05a98af97ce2"
+    },
+    {
+      "source": "covers/song/song_20261103_214009_62e4.jpg",
+      "bytes": 816986,
+      "localMtime": 1793742010.691621,
+      "file": "images/d30da3a329ac92c82b49ea3ef3b0485c23d2884338188441da258253e41bed2d.jpg",
+      "sha256": "d30da3a329ac92c82b49ea3ef3b0485c23d2884338188441da258253e41bed2d"
+    },
+    {
+      "source": "covers/song/song_20261103_220029_aab8.jpg",
+      "bytes": 1001709,
+      "localMtime": 1793743231.5470295,
+      "file": "images/e0c1c45195592e7105bd6eb6293c6cb4a8b725ebc82a51ad5b2addaacbce0ce8.jpg",
+      "sha256": "e0c1c45195592e7105bd6eb6293c6cb4a8b725ebc82a51ad5b2addaacbce0ce8"
+    },
+    {
+      "source": "covers/song/song_20261103_221509_3f4f.jpg",
+      "bytes": 790248,
+      "localMtime": 1793744110.6673665,
+      "file": "images/37c74220610fcc6a2698ea8b9106cc873cd655a78f322a9746094c6ef96c9f42.jpg",
+      "sha256": "37c74220610fcc6a2698ea8b9106cc873cd655a78f322a9746094c6ef96c9f42"
+    },
+    {
+      "source": "covers/song/song_20261103_224606_5e6e.jpg",
+      "bytes": 951024,
+      "localMtime": 1793745967.248616,
+      "file": "images/7bbca8a68a59e3ea7d253d578e95b2637d25691a7c37a27daad01b8e4a7fdd50.jpg",
+      "sha256": "7bbca8a68a59e3ea7d253d578e95b2637d25691a7c37a27daad01b8e4a7fdd50"
+    },
+    {
+      "source": "covers/song/song_20261103_225008_1ef8.jpg",
+      "bytes": 868076,
+      "localMtime": 1793746210.1907685,
+      "file": "images/1181edbea4d0f09774d6e580e20bc12f3f4013b1d06841c808bb78b60ec40f00.jpg",
+      "sha256": "1181edbea4d0f09774d6e580e20bc12f3f4013b1d06841c808bb78b60ec40f00"
+    },
+    {
+      "source": "covers/song/song_20261103_232012_5662.jpg",
+      "bytes": 841913,
+      "localMtime": 1793748014.1544216,
+      "file": "images/9f0ec8e3773e0871aad7f1ee9532d02807a2c5febd39a19c2c565e735ef743e5.jpg",
+      "sha256": "9f0ec8e3773e0871aad7f1ee9532d02807a2c5febd39a19c2c565e735ef743e5"
+    }
+  ]
+}
